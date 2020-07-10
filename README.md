@@ -1,1 +1,2 @@
-# Corn-and-Duck-plugin
+# Corn-and-Duck-plugin 
+Adds Ducks and Corn to Minecraft
